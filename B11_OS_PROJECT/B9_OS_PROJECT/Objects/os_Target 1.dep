@@ -1,0 +1,17 @@
+Dependencies for Project 'os', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x559D03D2)(--cpu Cortex-M3 --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\NXP\LPC17xx--pd "__UVISION_VERSION SETA 522"--list .\listings\startup_lpc17xx.lst --xref -o .\objects\startup_lpc17xx.o --depend .\objects\startup_lpc17xx.d)
+F (.\os_code.c)(0x695CA53E)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="522"-o .\objects\os_code.o --omf_browse .\objects\os_code.crf --depend .\objects\os_code.d)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x559D04DA)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D0EC2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F629E0)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D0EC2)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D0EC2)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x57037F3A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F629E0)
+F (.\1768.c)(0x695C86DE)(-c --cpu Cortex-M3 -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="522"-o .\objects\1768.o --omf_browse .\objects\1768.crf --depend .\objects\1768.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F629E0)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x559D04DA)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cm3.h)(0x559D0EC2)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h)(0x559D0EC2)
+I (C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h)(0x559D0EC2)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x57037F3A)

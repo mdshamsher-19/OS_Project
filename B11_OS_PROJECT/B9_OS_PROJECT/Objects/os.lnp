@@ -1,0 +1,9 @@
+--cpu Cortex-M3
+".\objects\startup_lpc17xx.o"
+".\objects\os_code.o"
+".\objects\1768.o"
+C:\Keil_v5\ARM\RV31\LIB\RTX_CM3.LIB
+--library_type=microlib --strict --scatter ".\Objects\os.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\os.map" -o .\Objects\os.axf
